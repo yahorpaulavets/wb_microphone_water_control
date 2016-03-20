@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="monitoring_started" type="id">Audio monitoring started.</item>
+</resources>

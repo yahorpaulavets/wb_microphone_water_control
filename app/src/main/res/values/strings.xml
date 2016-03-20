@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MicrophoneRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="monitoring_started">Water monitoring started.</string>
+    <string name="monitoring_stopped">Water monitoring stopped</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="water_tracking_descr">Hit mic button to start water tracking, hit it again when water tracking is not needed anymore</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
